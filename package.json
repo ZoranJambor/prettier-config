@@ -1,0 +1,19 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ZoranJambor/prettier-config.git"
+  },
+  "author": "Zoran Jambor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZoranJambor/prettier-config/issues"
+  },
+  "homepage": "https://github.com/ZoranJambor/prettier-config#readme"
+}
