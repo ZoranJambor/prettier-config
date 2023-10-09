@@ -1,11 +1,7 @@
 {
   "name": "@cssweekly/prettier-config",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "version": "1.1.0",
+  "description": "An example Prettier config used in Mastering Linting course.",
   "repository": {
     "type": "git",
     "url": "git+ssh://git@github.com/ZoranJambor/prettier-config.git"
